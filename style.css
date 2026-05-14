@@ -1,0 +1,39 @@
+body {
+font-family: 'Courier New', Courier, monospace;
+padding: 30px;
+}
+
+.search-button {
+background-color: white;
+color: #237b94;
+border: 2px solid #237b94;
+border-radius: 20%;
+width: 180px;       
+height: 40px;
+font-size: 20px;
+font-weight: bold;
+cursor: pointer;
+}
+
+.plus-button {
+background-color: rgb(28, 204, 175);
+color: white;
+border: none;
+border-radius: 50%;
+width: 50px;
+height: 50px;
+font-size: 30px;
+font-weight: bold;
+cursor: pointer;
+}
+
+.create-account-button {
+background-color: #237b94;
+color: white;
+border: 2px solid #237b94;
+width: 200px;
+height: 45px;
+font-size: 24px;
+cursor: pointer;
+box-shadow: 5px 5px black;
+}
